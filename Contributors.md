@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-[Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
 - [Devansh Mehta@DevsocPI](https://github.com/Coderpromax8)
 - [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
 - [Pawan Yadav](https://github.com/pawanyy)
@@ -795,5 +794,6 @@
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
+- [kanav upadhyay @DEVSOC](https://github.com/Sigmistic2k4)
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
